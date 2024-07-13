@@ -1,0 +1,3 @@
+/home/anouk/CMAKE/build/CMakeFiles/Project.dir
+/home/anouk/CMAKE/build/CMakeFiles/edit_cache.dir
+/home/anouk/CMAKE/build/CMakeFiles/rebuild_cache.dir
