@@ -8,6 +8,7 @@ int main()
   int *ptr = &a;
   function((void *)a);
   cout << "Hello world kittens!" << endl;
+  cout << "configurated ssh" << endl;
 }
 
 
